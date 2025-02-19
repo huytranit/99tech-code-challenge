@@ -6,7 +6,7 @@ export function Footer() {
           <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
             Built by{" "}
             <a
-              href="https://github.com/huytran2001"
+              href="https://github.com/huytranit"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
@@ -15,7 +15,7 @@ export function Footer() {
             </a>
             . The source code is available on{" "}
             <a
-              href="https://github.com/huytranit/99tech-code-challenge"
+              href="https://github.com/huytranit/tran-nguyen-gia-huy"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
